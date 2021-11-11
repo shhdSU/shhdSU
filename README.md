@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🧠 It's Shahad Alklatham, Graduated on Jul 2021
-- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning 
-- 📫 How to reach me: shhd.kaltham@gmail.com
+- 🧠 It's Shahad Alklatham, Graduated on Jul 2021.
+- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
+- 📫 How to reach me: shhd.kaltham@gmail.com.
 
 <!--
 **shhdSU/shhdSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
